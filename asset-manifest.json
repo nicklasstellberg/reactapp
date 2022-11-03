@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nicklasstellberg.github.io/reactapp/static/css/main.f4f7303c.css",
+    "main.js": "/nicklasstellberg.github.io/reactapp/static/js/main.327c08d1.js",
+    "static/js/787.5480e000.chunk.js": "/nicklasstellberg.github.io/reactapp/static/js/787.5480e000.chunk.js",
+    "index.html": "/nicklasstellberg.github.io/reactapp/index.html",
+    "main.f4f7303c.css.map": "/nicklasstellberg.github.io/reactapp/static/css/main.f4f7303c.css.map",
+    "main.327c08d1.js.map": "/nicklasstellberg.github.io/reactapp/static/js/main.327c08d1.js.map",
+    "787.5480e000.chunk.js.map": "/nicklasstellberg.github.io/reactapp/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4f7303c.css",
+    "static/js/main.327c08d1.js"
+  ]
+}
